@@ -1,5 +1,5 @@
 #include "protheus.ch"
 
 User Function Gabriel()
-alert("Gabriel")
+	alert("Gabriel")
 return
