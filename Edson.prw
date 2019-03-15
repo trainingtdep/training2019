@@ -1,5 +1,5 @@
 #include "protheus.ch"
 
 User Function Edson()
-	alert("edson)
+	alert("edson")
 Return
